@@ -1,0 +1,6 @@
+Django==1.9.7
+django-audit-log==0.7.0
+django-cors-headers==1.1.0
+djangorestframework==3.3.3
+djangorestframework-jwt==1.8.0
+PyJWT==1.4.0
